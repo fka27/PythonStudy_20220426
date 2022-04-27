@@ -1,0 +1,18 @@
+{
+    "company" : "kakao",
+    "users" : [{
+        "usercode" : "20220001",
+        "username" : "garam",
+        "password" : "1111",
+        "name" : "김가람",
+        "email" : "rkfka0227@gmail.com"
+        },
+        {
+        "usercode" : "20220002",
+        "username" : "garam2",
+        "password" : "2222",
+        "name" : "김가람2",
+        "email" : "rkfka0228@gmail.com"
+        }
+    ]
+}

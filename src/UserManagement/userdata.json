@@ -1,0 +1,35 @@
+{
+    "user_mst": [
+        {
+            "usercode": "1",
+            "email": "rkfka0227@gmail.com",
+            "name": "김가람",
+            "username": "rkfka0227",
+            "password": "1234"
+        },
+        {
+            "usercode": "2",
+            "email": "qhfka0629@naver.com",
+            "name": "김보람",
+            "username": "qhfka0629",
+            "password": "7891"
+        },
+        {
+            "usercode": "3",
+            "email": "ekrud307@naver.com",
+            "name": "이다경",
+            "username": "dakyong",
+            "password": "123456"
+        }
+    ],
+    "user_dtl": [
+        {
+            "usercode": "1",
+            "phone": "010-1234-5678"
+        },
+        {
+            "usercode": "2",
+            "phone": "010-2345-6789"
+        }
+    ]
+}
